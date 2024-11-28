@@ -2,8 +2,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zebz-da (Zebulun)
 =========================================================================================================================================
 
-Aspiring Data Analyst
----------------------
+Aspiring Data Analyst | Curious Mind | 
+--------------------------------------------------
 
 An early college education in Information technology and furthered my education in higher education in business information systems and Oil and Gas management. I have a unique blend of technical knowledge and interpersonal skills. Working within the Information technology field has always been at the forefront of my aspirations and brings me joy to know that I can now apply my analytic skills in a new role as a Data Analyst I am currently engaged in a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. I am looking to build on my skills and develop new skills to develop a career as a data analyst. I have completed several data projects using Excel, SQL, Python, R, Tableau and PowerBI which have been posted in my GitHub and Tableau Public portfolios. I am an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
