@@ -2,11 +2,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeb
 =========================================================================================================================================
 
-Aspiring Data Analyst | Curious Mind | 
+Aspiring Data Analyst | Curious Mind | Always Learning
 --------------------------------------------------
 
 My journey into a data analyst from a customer service based background to a technical trade in gas engineer has given me ample experience and ability to work front-end and back-end. This has amplified my passion to delve into things with a critical and logical approach, With a unique blend of technical knowledge and interpersonal skills. 
-Working within the Information technology field has always been at the forefront of my aspirations and brings me joy to know that I can now apply my analytic skills in a new role as a Data Analyst I am currently engaged in a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. This training is equipping me with proficiency and technical skills in Excel, SQL, Python, R, Tableau and PowerBI which will combine my skills, insights and background in customer facing roles.
+Working within the Information technology field has always been at the forefront of my aspirations and brings me joy to know that I can now apply my analytic skills in a new role as a Data Analyst I recently completed a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. This training is equipping me with proficiency and technical skills in Excel, SQL, Python, R, Tableau and PowerBI which will combine my skills, insights and background in customer facing roles.
 
 My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
