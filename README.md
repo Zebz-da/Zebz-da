@@ -15,7 +15,7 @@ My journey involves turning raw data into actionable knowledge, and I’m excite
 * ✉️  You can contact me at [noelznoel23@gmail.com](mailto:noelznoel23@gmail.com)
 * 🧠  I'm learning Python, Panda and RLang and Azure CloudSpace
 * 🤝  I'm open to collaborating on interesting projects
-* Portfolio page - <a href="https://sites.google.com/view/zebulun-ackah/home/"
+* Portfolio page - https://sites.google.com/view/zebulun-ackah/home/" - 
  <a href="https://www.linkedin.com/in/zebulun-ackah-437405b2/" target="_blank">My LinkedIn Profile</a>
   
   
